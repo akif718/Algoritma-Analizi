@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\Resimler\Masaüstü\Algoritma-Analizi\hafta1\bin\Debug\hafta1.exe.config
+C:\Users\Lenovo\OneDrive\Resimler\Masaüstü\Algoritma-Analizi\hafta1\bin\Debug\hafta1.exe
+C:\Users\Lenovo\OneDrive\Resimler\Masaüstü\Algoritma-Analizi\hafta1\bin\Debug\hafta1.pdb
+C:\Users\Lenovo\OneDrive\Resimler\Masaüstü\Algoritma-Analizi\hafta1\obj\Debug\hafta1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Resimler\Masaüstü\Algoritma-Analizi\hafta1\obj\Debug\hafta1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Resimler\Masaüstü\Algoritma-Analizi\hafta1\obj\Debug\hafta1.exe
+C:\Users\Lenovo\OneDrive\Resimler\Masaüstü\Algoritma-Analizi\hafta1\obj\Debug\hafta1.pdb
